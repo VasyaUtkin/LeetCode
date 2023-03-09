@@ -1,7 +1,7 @@
 package main
 
 import (
-	"LeetCodeSolution/01_TwoSum/solution"
+	"LeetCodeSolution/src/01_TwoSum/solution"
 	"fmt"
 )
 
